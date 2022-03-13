@@ -12,10 +12,11 @@
 <h2 align="center"></h2>
 
 
-<div align="center">
+<div>
   
-<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=Akagicv&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Stacklens's github stats" /></a>
-<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akagicv&layout=compact&theme=buefy&hide_border=true" /></a> 
+<a><img  src="https://github-readme-stats.vercel.app/api?username=Akagicv&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Stacklens's github stats" /></a>
+  
+<a><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=akagicv&layout=compact&theme=buefy&hide_border=true" /></a> 
   
 </div>
 
