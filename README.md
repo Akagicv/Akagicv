@@ -2,7 +2,7 @@
 
 <div>
   
-[![BLOG](https://img.shields.io/badge/-blog-orgen?logo=rss&style=for-the-badge&logoColor=ffffff&color=413d9f)](http://www.akagicv.com/)
+[![BLOG](https://img.shields.io/badge/-blog-orgen?logo=rss&style=for-the-badge&logoColor=ffffff&color=413d9f)](http://www.windowsnoeditor.com/)
 [![BILIBILI](https://img.shields.io/badge/-bili-orgen?logo=bilibili&style=for-the-badge&logoColor=ffffff&color=f6729a)](https://space.bilibili.com/85735399)
   
 </div>
